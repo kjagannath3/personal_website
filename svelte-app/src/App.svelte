@@ -5,8 +5,8 @@
 
 <Navbar />
 <main>
-	<h1>Hello {name}!</h1>
-	<p>Visit the <a href="https://svelte.dev/tutorial">Svelte tutorial</a> to learn how to build Svelte apps.</p>
+	<h1 class="big-title">Hello World!</h1>
+	<p class="big-paragraph">Welcome to the world of Keshav Jagannath!</p>
 </main>
 
 <style>
@@ -17,8 +17,15 @@
 		margin: 0 auto;
 	}
 
+	.big-title {
+		font-size: 7em;
+	}
+
+	.big-paragraph {
+		font-size: 1.5em;
+	}
+
 	h1 {
-		color: #rgb(11, 4, 150); 
 		text-transform: uppercase;
 		font-size: 4em;
 		font-weight: 100;

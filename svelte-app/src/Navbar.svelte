@@ -5,9 +5,11 @@
         
 		{id: 2, label: 'Education' },
 
-		{id: 3, label: 'Project'},
+		{id: 3, label: 'My resume'},
 
-		{id: 4, label: 'Music'},
+		{id: 4, label: 'Demos'},
+
+		{id: 5, label: 'Music'},
 	]
 </script>
 
