@@ -29,6 +29,20 @@ label {
 	display: block;
 }
 
+/* global.css */
+.button a {
+    color: white; /* Explicitly set text color for <Link> */
+    text-decoration: none; /* Removes underline from links */
+}
+
+.button a:visited {
+    color: white; /* Override visited link color */
+}
+
+.button:hover {
+    background-color: rgba(255, 255, 255, 0.2); /* Light background on hover */
+}
+
 input, button, select, textarea {
 	font-family: inherit;
 	font-size: inherit;
