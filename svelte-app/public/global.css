@@ -40,7 +40,7 @@ label {
 }
 
 .button:hover {
-    background-color: rgba(255, 255, 255, 0.2); /* Light background on hover */
+	font-size: large;
 }
 
 input, button, select, textarea {
