@@ -1,23 +1,23 @@
 <script>
-
+    import { Link } from 'svelte-routing';
 	let buttons = [
-		{id: 1, label: 'Home' },
+		{id: 1, label: 'Home', link: '/' },
         
-		{id: 2, label: 'Education' },
+		{id: 2, label: 'Education', link: '/'},
 
-		{id: 3, label: 'My resume'},
+		{id: 3, label: 'My resume', link: '/'},
 
-		{id: 4, label: 'Demos'},
+		{id: 4, label: 'Demos', link: '/'},
 
-		{id: 5, label: 'Music'},
+		{id: 5, label: 'Music', link: '/music'},
 	]
 </script>
 
 <nav>
     {#each buttons as button}
-        <button>
+        <Link to={button.link}>
             {button.label}
-        </button>
+        </Link>
     {/each}
 </nav>
 
@@ -30,7 +30,11 @@
         display: flex; /* Align buttons in a row */
         justify-content: space-around; /* Even space between buttons */
     }
-
+    Link { /* Style for <a> or <Link> tags */
+    color: white; /* White text color */
+    text-decoration: none; /* Remove underline from links */
+    padding: 10px 20px;
+}
     button {
         background: none; /* Remove default button background */
         border: none; /* Remove default button border */
