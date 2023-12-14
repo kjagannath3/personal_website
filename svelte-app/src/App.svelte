@@ -1,14 +1,16 @@
 <script>
-	export let name;
-	import Navbar from "./Navbar.svelte";``
 
+	import Navbar from "./Navbar.svelte";
+	import Music from "./Music.svelte";
+	import {Router, Route} from "svelte-routing";
+	import Home from "./Home.svelte";
 </script>
 
-<Navbar />
-<main>
-	<h1 class="big-title">Hello World!</h1>
-	<p class="big-paragraph">Welcome to the world of Keshav Jagannath!</p>
-</main>
+<Router>
+    <Route path="/" component={Home} />
+    <Route path="/music" component={Music} />
+</Router>
+
 
 <style>
 	main {
