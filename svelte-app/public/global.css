@@ -13,16 +13,25 @@ body {
 }
 
 a {
-	color: rgb(0,100,200);
+	color: white;;
 	text-decoration: none;
+	transition: color 0.3s ease;
 }
 
+
+
 a:hover {
-	text-decoration: underline;
+	color: lightblue;
 }
 
 a:visited {
-	color: rgb(0,80,160);
+	color: white;
+
+	transition: color 0.2s ease;
+}
+
+a:visited:hover {
+	color: lightblue;
 }
 
 label {
@@ -43,6 +52,25 @@ input, button, select, textarea {
 input:disabled {
 	color: #ccc;
 }
+
+.big-title {
+	font-size: 36px; /* Large font size for the title */
+    color: #333; /* Dark color for text */
+    text-align: center; /* Center align the title */
+    margin-top: 20px; /* Add some space at the top */
+    margin-bottom: 10px; /* Add some space at the bottom */
+    font-family: 'Arial', sans-serif; /* Font style */
+}
+
+.big-paragraph {
+	font-size: 18px; /* Slightly larger font size for readability */
+    color: #555; /* Slightly lighter color than the title */
+    text-align: justify; /* Justify align for better readability in paragraphs */
+    line-height: 1.6; /* Space between lines */
+    margin: 0 20px; /* Margin on left and right for better spacing */
+    font-family: 'Times New Roman', serif;
+}
+
 
 button {
 	color: #333;

@@ -30,21 +30,6 @@
         display: flex; /* Align buttons in a row */
         justify-content: space-around; /* Even space between buttons */
     }
-    Link { /* Style for <a> or <Link> tags */
-    color: white; /* White text color */
-    text-decoration: none; /* Remove underline from links */
-    padding: 10px 20px;
-}
-    button {
-        background: none; /* Remove default button background */
-        border: none; /* Remove default button border */
-        color: white; /* White text color */
-        font-weight: bold;
-        cursor: pointer;
-        padding: 10px 20px;
-    }
 
-    button:hover {
-        background-color: rgba(255, 255, 255, 0.2); /* Light background on hover */
-    }
+
 </style>
