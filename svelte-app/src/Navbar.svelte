@@ -7,7 +7,7 @@
 
 		{id: 3, label: 'My resume', link: '/resume'},
 
-		{id: 4, label: 'Demos', link: '/'},
+		{id: 4, label: 'Demos', link: '/demos'},
 
 		{id: 5, label: 'Music', link: '/music'},
 	]
