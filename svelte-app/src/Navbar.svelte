@@ -24,7 +24,9 @@
 
 <style>
     nav {
+        /* width: 50%; */
         background-color: rgb(11, 4, 150); /* Dark background */
+        border-radius: 10px;
         color: white;
         padding: 10px 0;
         display: flex; /* Align buttons in a row */
