@@ -5,7 +5,7 @@
         
 		{id: 2, label: 'Education', link: '/education'},
 
-		{id: 3, label: 'My resume', link: '/'},
+		{id: 3, label: 'My resume', link: '/resume'},
 
 		{id: 4, label: 'Demos', link: '/'},
 
