@@ -4,11 +4,13 @@
 	import Music from "./Music.svelte";
 	import {Router, Route} from "svelte-routing";
 	import Home from "./Home.svelte";
+	import Education from "./Education.svelte";
 </script>
 
 <Router>
     <Route path="/" component={Home} />
     <Route path="/music" component={Music} />
+	<Route path="/education" component={Education}/>
 </Router>
 
 

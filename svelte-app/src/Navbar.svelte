@@ -3,7 +3,7 @@
 	let buttons = [
 		{id: 1, label: 'Home', link: '/' },
         
-		{id: 2, label: 'Education', link: '/'},
+		{id: 2, label: 'Education', link: '/education'},
 
 		{id: 3, label: 'My resume', link: '/'},
 
