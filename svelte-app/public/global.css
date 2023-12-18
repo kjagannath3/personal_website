@@ -20,19 +20,76 @@ a {
 
 
 
+.content-title {
+
+         text-align: center;
+         font-size: 30px;
+         font-weight: 700;
+         margin-bottom: 20px;
+}
+
+
+.big-title {
+	text-align: center;
+}
+.content {
+	box-sizing: border-box;
+	width: 100%;
+	padding: 20px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+
+.big-paragraph {
+	text-align: center;
+	
+}
+.text-picture-container {
+	box-sizing: border-box;
+	padding: 90px;
+	width: 80%;
+	align-self: center;
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: center;
+	border-radius: 20px;
+	background-color: lightgrey;
+}
+
+
 a:hover {
-	color: lightblue;
+    color: lightblue;
 }
 
 a:visited {
-	color: white;
-
-	transition: color 0.2s ease;
+    color: white;
+    transition: color 0.2s ease;
 }
 
 a:visited:hover {
-	color: lightblue;
+    color: lightblue;
 }
+
+a:active {
+    color: lightblue;
+}
+
+a:visited:active {
+    color: lightblue;
+}
+
+/* Add this block */
+a.active-link {
+    color: red; /* Change this to whatever color you want */
+}
+
+label {
+    display: block;
+}
+
 
 label {
 	display: block;
@@ -65,7 +122,7 @@ input:disabled {
 .big-paragraph {
 	font-size: 18px; /* Slightly larger font size for readability */
     color: #555; /* Slightly lighter color than the title */
-    text-align: justify; /* Justify align for better readability in paragraphs */
+    text-align: center; /* Justify align for better readability in paragraphs */
     line-height: 1.6; /* Space between lines */
     margin: 0 20px; /* Margin on left and right for better spacing */
     font-family: 'Times New Roman', serif;
@@ -89,3 +146,12 @@ button:not(:disabled):active {
 button:focus {
 	border-color: #666;
 }
+
+button:active {
+	background-color: black;
+}
+
+button:visited:active {
+	background-color: black;
+}
+

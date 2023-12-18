@@ -2,9 +2,8 @@
     import Navbar from "./Navbar.svelte";
 </script>
 
-
 <Navbar />
-<p class="content-title">Lorem Ipsum</p>
+<p class="content-paragraph">Lorem Ipsum</p>
 <div class="content">
     <div class ="text-picture-container">
         <div class="text-container">
@@ -26,15 +25,10 @@
 
 
 
+
 <style>
-    .resume-title {
+    .education-paragraph {
         font-size: 20px;
-        font-weight: bold;
         text-align: center;
     }
 </style>
-
-
-
-
-

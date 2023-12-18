@@ -5,11 +5,16 @@
         
 		{id: 2, label: 'Education', link: '/education'},
 
-		{id: 3, label: 'My resume', link: '/resume'},
+		{id: 3, label: 'Interests', link: '/interests'},
 
-		{id: 4, label: 'Demos', link: '/demos'},
+		{id: 4, label: 'Projects', link: '/projects'},
 
 		{id: 5, label: 'Music', link: '/music'},
+
+        {id: 7, label: 'Lifting', link: '/lifting'},
+
+        {id: 8, label: 'Contact', link: '/contact'}
+
 	]
 </script>
 
@@ -32,6 +37,8 @@
         display: flex; /* Align buttons in a row */
         justify-content: space-around; /* Even space between buttons */
     }
-
+    .navbar a.active-link {
+    color: red; /* Change this to whatever color you want */
+    }
 
 </style>

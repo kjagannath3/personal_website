@@ -4,7 +4,9 @@
 
 
 <Navbar />
-<p class="content-title">Lorem Ipsum</p>
+<p class="content-title">
+    Lorem Ipsum
+</p>
 <div class="content">
     <div class ="text-picture-container">
         <div class="text-container">
@@ -25,16 +27,12 @@
 
 
 
-
 <style>
-    .resume-title {
-        font-size: 20px;
-        font-weight: bold;
-        text-align: center;
+    .demos-title {
+         text-align: center;
+         font-size: 30px;
+         font-weight: 700;
+         margin-bottom: 20px;
+ 
     }
 </style>
-
-
-
-
-
