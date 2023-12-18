@@ -5,11 +5,16 @@
         
 		{id: 2, label: 'Education', link: '/education'},
 
-		{id: 3, label: 'My resume', link: '/resume'},
+		{id: 3, label: 'Interests', link: '/interest'},
 
-		{id: 4, label: 'Demos', link: '/demos'},
+		{id: 4, label: 'Projects', link: '/projects'},
 
 		{id: 5, label: 'Music', link: '/music'},
+
+        {id: 7, label: 'Lifting', link: '/lifting'}
+
+        {id: 8, label: 'Contact', link: '/contact'}
+
 	]
 </script>
 
