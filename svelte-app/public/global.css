@@ -61,18 +61,35 @@ a {
 
 
 a:hover {
-	color: lightblue;
+    color: lightblue;
 }
 
 a:visited {
-	color: white;
-
-	transition: color 0.2s ease;
+    color: white;
+    transition: color 0.2s ease;
 }
 
 a:visited:hover {
-	color: lightblue;
+    color: lightblue;
 }
+
+a:active {
+    color: lightblue;
+}
+
+a:visited:active {
+    color: lightblue;
+}
+
+/* Add this block */
+a.active-link {
+    color: red; /* Change this to whatever color you want */
+}
+
+label {
+    display: block;
+}
+
 
 label {
 	display: block;
@@ -129,3 +146,12 @@ button:not(:disabled):active {
 button:focus {
 	border-color: #666;
 }
+
+button:active {
+	background-color: black;
+}
+
+button:visited:active {
+	background-color: black;
+}
+

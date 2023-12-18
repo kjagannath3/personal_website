@@ -37,6 +37,8 @@
         display: flex; /* Align buttons in a row */
         justify-content: space-around; /* Even space between buttons */
     }
-
+    .navbar a.active-link {
+    color: red; /* Change this to whatever color you want */
+    }
 
 </style>
