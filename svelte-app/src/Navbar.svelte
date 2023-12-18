@@ -5,7 +5,7 @@
         
 		{id: 2, label: 'Education', link: '/education'},
 
-		{id: 3, label: 'Interests', link: '/interest'},
+		{id: 3, label: 'Interests', link: '/interests'},
 
 		{id: 4, label: 'Projects', link: '/projects'},
 
