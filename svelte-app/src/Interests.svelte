@@ -5,4 +5,8 @@
 
 
 <Navbar />
-<p>lorem ipsum</p>
+<p class="content-title">lorem ipsum</p>
+
+
+
+

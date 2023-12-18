@@ -3,7 +3,7 @@
 </script>
 
 <Navbar />
-<p class="education-paragraph">Lorem Ipsum</p>
+<p class="content-title">Lorem Ipsum</p>
 
 
 

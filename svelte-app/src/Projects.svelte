@@ -4,7 +4,7 @@
 
 
 <Navbar />
-<p class="demos-title">
+<p class="content-title">
     Lorem Ipsum
 </p>
 

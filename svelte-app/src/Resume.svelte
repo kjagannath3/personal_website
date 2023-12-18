@@ -4,7 +4,7 @@
 
 
 <Navbar />
-<p class="resume-title">Lorem Ipsum</p>
+<p class="content-title">Lorem Ipsum</p>
 
 
 
