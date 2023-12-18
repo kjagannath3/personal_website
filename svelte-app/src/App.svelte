@@ -6,7 +6,7 @@
 	import Home from "./Home.svelte";
 	import Education from "./Education.svelte";
 	import Resume from "./Resume.svelte";
-	import Demos from "./Demos.svelte";
+	import Demos from "./Projects.svelte";
 </script>
 
 <Router>
