@@ -29,6 +29,36 @@ a {
 }
 
 
+.big-title {
+	text-align: center;
+}
+.content {
+	box-sizing: border-box;
+	width: 100%;
+	padding: 20px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+
+.big-paragraph {
+	text-align: center;
+	
+}
+.text-picture-container {
+	box-sizing: border-box;
+	padding: 90px;
+	width: 80%;
+	align-self: center;
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: center;
+	border-radius: 20px;
+	background-color: lightgrey;
+}
+
 
 a:hover {
 	color: lightblue;
@@ -75,7 +105,7 @@ input:disabled {
 .big-paragraph {
 	font-size: 18px; /* Slightly larger font size for readability */
     color: #555; /* Slightly lighter color than the title */
-    text-align: justify; /* Justify align for better readability in paragraphs */
+    text-align: center; /* Justify align for better readability in paragraphs */
     line-height: 1.6; /* Space between lines */
     margin: 0 20px; /* Margin on left and right for better spacing */
     font-family: 'Times New Roman', serif;

@@ -4,8 +4,11 @@
 
 <Navbar />
 <main>
-	<h1 class="big-title">Hello World!</h1>
-	<p class="big-paragraph">Welcome to the world of Keshav Jagannath!</p>
+	<div class="title-container">
+
+		<h1 class="big-title">Hello World!</h1>
+		<p class="big-paragraph">Welcome to the world of Keshav Jagannath!</p>
+	</div>
 	<div class="content">
 		<div class ="text-picture-container">
 			<div class="text-container">
@@ -31,27 +34,5 @@
 
 
 <style>
-	.big-paragraph {
-		text-align: center;
-	}
-	.content {
-		box-sizing: border-box;
-		width: 100%;
-		padding: 20px;
-		display: flex;
-		justify-content: center;
-		align-items: center;
-	}
-	.text-picture-container {
-		box-sizing: border-box;
-		padding: 90px;
-		width: 80%;
-		align-self: center;
-		display: flex;
-        flex-direction: row;
-        align-items: center;
-        justify-content: center;
-		border-radius: 20px;
-		background-color: lightgrey;
-	}
+
 </style>
