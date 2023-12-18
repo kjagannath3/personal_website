@@ -11,7 +11,7 @@
 
 		{id: 5, label: 'Music', link: '/music'},
 
-        {id: 7, label: 'Lifting', link: '/lifting'}
+        {id: 7, label: 'Lifting', link: '/lifting'},
 
         {id: 8, label: 'Contact', link: '/contact'}
 
