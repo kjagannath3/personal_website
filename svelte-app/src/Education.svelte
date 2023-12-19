@@ -8,17 +8,20 @@
 <div class="content">
     <div class ="text-picture-container">
         <div class="text-container">
-        <h2>Lorem Ipsum</h2>
             <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam non urna at libero sodales blandit. 
-                Suspendisse sed mi eu sem blandit tristique. Sed eleifend nisl non lacus vulputate, eget posuere massa 
-                hendrerit. Proin auctor, elit eget consectetur tristique, dolor risus malesuada nisi, ac interdum quam 
-                libero a felis. Sed a tincidunt arcu. Nullam tincidunt semper orci, at lobortis dui congue nec. Curabitur 
-                tincidunt, nisi nec rhoncus feugiat, erat lorem iaculis metus, id venenatis nunc lectus sed nisl. Quisque 
-                ut euismod nulla. Sed vel lectus ipsum. Vivamus at nunc nec nisi eleifend congue. Vivamus convallis sapien 
-                ut dapibus tincidunt. Vivamus sit amet ipsum eget justo facilisis venenatis. Nulla facilisi.
-            </p>	
+                I am an undergraduate senior at Georgia Institute of Technology, pursuing a Bachelor of Science in Computer Science.
+                While my coursework spans most areas in the field, my biggest interests are in machine learning, backend development, and 
+                smaller computing units.
+                I am fascinated by the idea of packaging the most innovative ml models, and deploying them into scenarios with limited computing power. 
+                I am also interested in the intersection of software, and machine learning, and am currently working on a personal project to create a synthesizer in C.
+                Take a moment to scroll down and explore my favourite courses and what I took away from each of them!
+            </p>
         </div>
+            <div class="image-container">
+
+				<img class ="gt-logo" src="gtlogo.png" alt="headshot" height="178px" width="283px">
+                <!-- <img source="gtlogo.png" alt="Georgia Tech Logo" height="100" width="100">	 -->
+            </div>
     </div>
 
 </div>
