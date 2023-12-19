@@ -5,19 +5,17 @@
 
 
 <Navbar />
-<p class="content-title">lorem ipsum</p>
+<p class="content-title">My Music</p>
 <div class="content">
     <div class ="text-picture-container">
         <div class="text-container">
-        <h2>Lorem Ipsum</h2>
+            <h2 class="content-title">Life's always better with a song!</h2>
             <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam non urna at libero sodales blandit. 
-                Suspendisse sed mi eu sem blandit tristique. Sed eleifend nisl non lacus vulputate, eget posuere massa 
-                hendrerit. Proin auctor, elit eget consectetur tristique, dolor risus malesuada nisi, ac interdum quam 
-                libero a felis. Sed a tincidunt arcu. Nullam tincidunt semper orci, at lobortis dui congue nec. Curabitur 
-                tincidunt, nisi nec rhoncus feugiat, erat lorem iaculis metus, id venenatis nunc lectus sed nisl. Quisque 
-                ut euismod nulla. Sed vel lectus ipsum. Vivamus at nunc nec nisi eleifend congue. Vivamus convallis sapien 
-                ut dapibus tincidunt. Vivamus sit amet ipsum eget justo facilisis venenatis. Nulla facilisi.
+                When I'm not busy selling my soul to a big tech company, I'm usually doing something with music
+                I am the director of Sympathetic Vibrations, Georgia Tech's premier all-male acapella group. On top 
+                of our bi-annual concerts every year, we have gigs every semester. I am also extremely interested in 
+                the intersection of music technology and software. Take a look below at some of my work, our lates Sympathetic Vibrations
+                concerts, and everything in between.
             </p>	
         </div>
     </div>
