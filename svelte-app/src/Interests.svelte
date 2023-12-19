@@ -5,18 +5,17 @@
 
 
 <Navbar />
-<p class="content-title">Lorem ipsum</p>
+
+<p class="content-title">My Interests</p>
 <div class="content">
     <div class ="text-picture-container">
         <div class="text-container">
+        <h2>These are the areas I want to pursue</h2>
+
             <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam non urna at libero sodales blandit. 
-                Suspendisse sed mi eu sem blandit tristique. Sed eleifend nisl non lacus vulputate, eget posuere massa 
-                hendrerit. Proin auctor, elit eget consectetur tristique, dolor risus malesuada nisi, ac interdum quam 
-                libero a felis. Sed a tincidunt arcu. Nullam tincidunt semper orci, at lobortis dui congue nec. Curabitur 
-                tincidunt, nisi nec rhoncus feugiat, erat lorem iaculis metus, id venenatis nunc lectus sed nisl. Quisque 
-                ut euismod nulla. Sed vel lectus ipsum. Vivamus at nunc nec nisi eleifend congue. Vivamus convallis sapien 
-                ut dapibus tincidunt. Vivamus sit amet ipsum eget justo facilisis venenatis. Nulla facilisi.
+                Computer science is a gigantic field, ranging from low level systems, to ML, to Graphic rendering,
+                to human computer interaction and many more. In my time at Tech, I have taken the time to narrow in on 
+                the areas I am interested in, so scroll down to take a closer look!
             </p>	
         </div>
     </div>
