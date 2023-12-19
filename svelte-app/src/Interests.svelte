@@ -9,7 +9,6 @@
 <div class="content">
     <div class ="text-picture-container">
         <div class="text-container">
-        <h2>Lorem Ipsum</h2>
             <p>
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam non urna at libero sodales blandit. 
                 Suspendisse sed mi eu sem blandit tristique. Sed eleifend nisl non lacus vulputate, eget posuere massa 
