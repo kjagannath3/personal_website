@@ -5,7 +5,7 @@
 
 
 <Navbar />
-<p class="content-title">lorem ipsum</p>
+<p class="content-title">Lorem ipsum</p>
 <div class="content">
     <div class ="text-picture-container">
         <div class="text-container">
