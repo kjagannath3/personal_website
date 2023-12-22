@@ -8,7 +8,7 @@
 <div class="content">
     <div class ="text-picture-container">
         <div class="text-container">
-        <h2>Check out some ways to reach out! I am currently looking for internship roles in the Summer and Fall of 2024.</h2>
+        <h2 class="content-title">Check out some ways to reach out! I am currently looking for internship roles in the Summer and Fall of 2024.</h2>
             <p>
                 Lorem Ipsum
             </p>	
