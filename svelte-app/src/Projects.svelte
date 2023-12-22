@@ -10,7 +10,7 @@
 <div class="content">
     <div class ="text-picture-container">
         <div class="text-container">
-        <h2>Check out some of my work below!</h2>
+        <h2 class="content-title">Check out some of my work below!</h2>
             <p>
                 The projects you see below are either from my courses at Georgia Tech, or from my personal 
                 time. Unfortunately, for the vast majority of my class-based projects, I am unable to show my 
@@ -23,13 +23,3 @@
 </div>
 
 
-
-<style>
-    .demos-title {
-         text-align: center;
-         font-size: 30px;
-         font-weight: 700;
-         margin-bottom: 20px;
- 
-    }
-</style>

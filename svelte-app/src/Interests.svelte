@@ -10,7 +10,7 @@
 <div class="content">
     <div class ="text-picture-container">
         <div class="text-container">
-        <h2>These are the areas I want to pursue</h2>
+        <h2 class="content-title">These are the areas I want to pursue</h2>
 
             <p>
                 Computer science is a gigantic field, ranging from low level systems, to ML, to Graphic rendering,
