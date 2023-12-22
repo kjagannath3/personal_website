@@ -28,10 +28,3 @@
 
 
 
-
-<style>
-    .education-paragraph {
-        font-size: 20px;
-        text-align: center;
-    }
-</style>

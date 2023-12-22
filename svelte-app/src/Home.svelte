@@ -32,7 +32,3 @@
 </main>
 
 
-
-<style>
-
-</style>
