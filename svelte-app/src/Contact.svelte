@@ -1,5 +1,6 @@
 <script>
     import Navbar from "./Navbar.svelte";
+    import SubContent from "./SubContent.svelte";
 </script>
 
 <Navbar />
@@ -14,8 +15,12 @@
             </p>	
         </div>
     </div>
+    <div class="content-list">
+        <SubContent title="Email" text="Email me at:" />
+    </div>
 
 </div>
+
 
 
 

@@ -3,7 +3,7 @@
     export let text = '';
 </script>
 
-<div class="text-picture-container">
+<div class="subContainer">
     <h2 class="content-title">{title}</h2>
     <p>{text}</p>
 </div>
