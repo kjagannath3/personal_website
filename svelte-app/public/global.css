@@ -61,7 +61,11 @@ a {
 
 .subContainer {
 	box-sizing: border-box;
-	padding: 90px;
+	padding: 2.5%;
+	margin-top: 5%;
+	margin-bottom: 5%;
+	margin-left: 5%;
+	margin-right: 5%;
 	width: 80%;
 	align-self: center;
 	justify-self: center;
