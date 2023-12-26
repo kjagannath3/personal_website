@@ -4,7 +4,7 @@
 
 
 <Navbar />
-<p class="content-title">
+<p class="big-title">
     My projects
 </p>
 <div class="content">

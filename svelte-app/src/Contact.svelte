@@ -4,7 +4,7 @@
 </script>
 
 <Navbar />
-<p class="content-title">Contacts</p>
+<p class="big-title">Contacts</p>
 
 <div class="content">
     <div class ="text-picture-container">

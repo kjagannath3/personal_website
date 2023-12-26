@@ -3,7 +3,7 @@
 </script>
 
 <Navbar />
-<p class="content-title">My Lifting</p>
+<p class="big-title">My Lifting</p>
 <div class="content">
     <div class ="text-picture-container">
         <div class="text-container">

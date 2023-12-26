@@ -5,7 +5,7 @@
 
 
 <Navbar />
-<p class="content-title">My Music</p>
+<p class="big-title">My Music</p>
 <div class="content">
     <div class ="text-picture-container">
         <div class="text-container">
