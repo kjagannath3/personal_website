@@ -30,6 +30,10 @@
 <style>
     nav {
         /* width: 50%; */
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
         background-color: rgb(11, 4, 150); /* Dark background */
         border-radius: 10px;
         color: white;

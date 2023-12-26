@@ -6,7 +6,7 @@
 
 <Navbar />
 
-<p class="content-title">My Interests</p>
+<p class="big-title">My Interests</p>
 <div class="content">
     <div class ="text-picture-container">
         <div class="text-container">
