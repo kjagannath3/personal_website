@@ -17,7 +17,6 @@
 					Hey everyone! My name is Keshav Jagannath, and I am an aspiring software engineer and musician.
 					I began my coding journey almost four years ago, and have been obsessed ever since. I love exploring new ways
 					technology can make our world a little bit smaller. Check out the following pages to learn more about me!j
-
 				</p>	
 			</div>
 			<div class="image-container">
