@@ -184,3 +184,7 @@ button:visited:active {
 	align-self: center;
 	
 }
+
+.image-container {
+	padding: 10px;
+}

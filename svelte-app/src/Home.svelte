@@ -14,13 +14,10 @@
 			<div class="text-container">
 			<h2 class="content-title">Lorem Ipsum</h2>
 				<p>
-					Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam non urna at libero sodales blandit. 
-					Suspendisse sed mi eu sem blandit tristique. Sed eleifend nisl non lacus vulputate, eget posuere massa 
-					hendrerit. Proin auctor, elit eget consectetur tristique, dolor risus malesuada nisi, ac interdum quam 
-					libero a felis. Sed a tincidunt arcu. Nullam tincidunt semper orci, at lobortis dui congue nec. Curabitur 
-					tincidunt, nisi nec rhoncus feugiat, erat lorem iaculis metus, id venenatis nunc lectus sed nisl. Quisque 
-					ut euismod nulla. Sed vel lectus ipsum. Vivamus at nunc nec nisi eleifend congue. Vivamus convallis sapien 
-					ut dapibus tincidunt. Vivamus sit amet ipsum eget justo facilisis venenatis. Nulla facilisi.
+					Hey everyone! My name is Keshav Jagannath, and I am an aspiring software engineer and musician.
+					I began my coding journey almost four years ago, and have been obsessed ever since. I love exploring new ways
+					technology can make our world a little bit smaller. Check out the following pages to learn more about me!j
+
 				</p>	
 			</div>
 			<div class="image-container">

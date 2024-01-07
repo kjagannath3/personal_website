@@ -3,7 +3,7 @@
 </script>
 
 <Navbar />
-<p class="big-title">Lorem Ipsum</p>
+<p class="big-title">My Education</p>
 
 <div class="content">
     <div class ="text-picture-container">
@@ -20,10 +20,23 @@
             <div class="image-container">
 
 				<img class ="gt-logo" src="gtlogo.png" alt="headshot" height="178px" width="283px">
-                <!-- <img source="gtlogo.png" alt="Georgia Tech Logo" height="100" width="100">	 -->
             </div>
     </div>
 
+
+    <div class ="text-picture-container">
+        <div class="text-container">
+            <p>
+                I am also persuing a certificate in general music studies from the Berklee College of Music, where I will focus on music technology, digital sound processing,
+                and sound design. My dream project, given unlimited resources, would be to create the ultimate digital audio workstation, with a focus on live performance. The material
+                I am learning at Berklee is invaluable to this endeavor.
+            </p>
+        </div>
+            <div class="image-container">
+
+				<img class ="gt-logo" src="gtlogo.png" alt="headshot" height="178px" width="283px">
+            </div>
+    </div>
 </div>
 
 
