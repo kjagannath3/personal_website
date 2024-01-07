@@ -47,12 +47,15 @@ a {
 }
 .text-picture-container {
 	box-sizing: border-box;
-	padding: 90px;
+	padding: 60px;
+	padding-bottom: 10px;
+	padding-top: 30px;
+	margin: 40px;
 	width: 80%;
 	align-self: center;
 	display: flex;
 	flex-direction: row;
-	align-items: center;
+	align-items: top;
 	justify-content: center;
 	border-radius: 20px;
 	background-color: lightgrey;

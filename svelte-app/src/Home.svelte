@@ -12,7 +12,7 @@
 	<div class="content">
 		<div class ="text-picture-container">
 			<div class="text-container">
-			<h2 class="content-title">Lorem Ipsum</h2>
+			<h2 class="content-title">About me</h2>
 				<p>
 					Hey everyone! My name is Keshav Jagannath, and I am an aspiring software engineer and musician.
 					I began my coding journey almost four years ago, and have been obsessed ever since. I love exploring new ways
